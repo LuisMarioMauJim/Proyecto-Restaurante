@@ -1,0 +1,17 @@
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\bin\Debug\PrototipoProyectoPOO.exe.config
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\bin\Debug\PrototipoProyectoPOO.exe
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\bin\Debug\PrototipoProyectoPOO.pdb
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\obj\Debug\PrototipoProyectoPOO.csproj.AssemblyReference.cache
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\obj\Debug\PrototipoProyectoPOO.Properties.Resources.resources
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\obj\Debug\PrototipoProyectoPOO.csproj.GenerateResource.cache
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\obj\Debug\PrototipoProyectoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\obj\Debug\PrototipoProyectoPOO.exe
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\obj\Debug\PrototipoProyectoPOO.pdb
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\obj\Debug\PrototipoProyectoPOO.MenuGerente.resources
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\obj\Debug\PrototipoProyectoPOO.Inventario.resources
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\obj\Debug\Prototip.69384956.Up2Date
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\obj\Debug\PrototipoProyectoPOO.ConsultarVentas.resources
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\obj\Debug\PrototipoProyectoPOO.Menu.resources
+C:\Users\Luis Mario\Documents\Programas POO\PrototipoProyectoPOO\obj\Debug\PrototipoProyectoPOO.ConsultarReservaciones.resources

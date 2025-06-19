@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Mario\\Documents\\Programas POO\\PrototipoProyectoPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB3CC9-CF7E-4F93-9320-4D70A497BB35}|PrototipoProyectoPOO.csproj|C:\\Users\\Luis Mario\\Documents\\Programas POO\\PrototipoProyectoPOO\\menugerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9EB3CC9-CF7E-4F93-9320-4D70A497BB35}|PrototipoProyectoPOO.csproj|solutionrelative:menugerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB3CC9-CF7E-4F93-9320-4D70A497BB35}|PrototipoProyectoPOO.csproj|C:\\Users\\Luis Mario\\Documents\\Programas POO\\PrototipoProyectoPOO\\consultarventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9EB3CC9-CF7E-4F93-9320-4D70A497BB35}|PrototipoProyectoPOO.csproj|solutionrelative:consultarventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB3CC9-CF7E-4F93-9320-4D70A497BB35}|PrototipoProyectoPOO.csproj|C:\\Users\\Luis Mario\\Documents\\Programas POO\\PrototipoProyectoPOO\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9EB3CC9-CF7E-4F93-9320-4D70A497BB35}|PrototipoProyectoPOO.csproj|solutionrelative:inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB3CC9-CF7E-4F93-9320-4D70A497BB35}|PrototipoProyectoPOO.csproj|c:\\users\\luis mario\\documents\\programas poo\\prototipoproyectopoo\\consultarreservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9EB3CC9-CF7E-4F93-9320-4D70A497BB35}|PrototipoProyectoPOO.csproj|solutionrelative:consultarreservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultarReservaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Mario\\Documents\\Programas POO\\PrototipoProyectoPOO\\ConsultarReservaciones.cs",
+              "RelativeDocumentMoniker": "ConsultarReservaciones.cs",
+              "ToolTip": "C:\\Users\\Luis Mario\\Documents\\Programas POO\\PrototipoProyectoPOO\\ConsultarReservaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsultarReservaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:07:57.936Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Mario\\Documents\\Programas POO\\PrototipoProyectoPOO\\Inventario.cs",
+              "RelativeDocumentMoniker": "Inventario.cs",
+              "ToolTip": "C:\\Users\\Luis Mario\\Documents\\Programas POO\\PrototipoProyectoPOO\\Inventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T01:56:31.05Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultarVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Mario\\Documents\\Programas POO\\PrototipoProyectoPOO\\ConsultarVentas.cs",
+              "RelativeDocumentMoniker": "ConsultarVentas.cs",
+              "ToolTip": "C:\\Users\\Luis Mario\\Documents\\Programas POO\\PrototipoProyectoPOO\\ConsultarVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsultarVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:20:41.423Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuGerente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Mario\\Documents\\Programas POO\\PrototipoProyectoPOO\\MenuGerente.cs",
+              "RelativeDocumentMoniker": "MenuGerente.cs",
+              "ToolTip": "C:\\Users\\Luis Mario\\Documents\\Programas POO\\PrototipoProyectoPOO\\MenuGerente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuGerente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:05:55.387Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
